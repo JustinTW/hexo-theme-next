@@ -311,7 +311,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: //justin-tech-blog.disqus.com/count.js
+  shortname: justin-tech-blog
   count: true
 
 # Hypercomments
