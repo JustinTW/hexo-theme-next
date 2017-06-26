@@ -133,6 +133,11 @@
 {# Canonical, good for google search engine (SEO) : https://support.google.com/webmasters/answer/139066 #}
 {% if theme.canonical %}
   <link rel="canonical" href="{{ config.url }}/{{ page.canonical_path.replace('index.html', '') }}"/>
+  <script type="text/javascript">
+    var host = "blog.justintw.com";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+  </script>
 {% endif %}
 
 {% include 'head/custom-head.swig' %}
