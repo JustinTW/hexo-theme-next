@@ -16,8 +16,8 @@ menu:
   schedule: Schedule
   sitemap: Sitemap
   commonweal: Commonweal 404
-  resume-zh: Resume (Chinese)
-  resume-en: Resume (English)
+  resume-zh: 簡歷
+  resume-en: Resume
 
 sidebar:
   overview: Overview
