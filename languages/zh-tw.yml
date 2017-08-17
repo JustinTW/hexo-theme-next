@@ -40,7 +40,7 @@ post:
     link: 連結
     license_title: 授權
     license_content: '採用
-      <a href="%s" rel="external nofollow" target="_blank">%s</a> 授權, 歡迎轉載與分享.'
+      <a href="%s" rel="external nofollow" target="_blank">%s</a>，歡迎分享與修改。'
 
 page:
   totally: 共有
